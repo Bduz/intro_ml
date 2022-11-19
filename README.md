@@ -10,3 +10,10 @@ This repo contains notebooks introducing deep learning using PyTorch. The notebo
 * **Part 6:** How to save and load trained models
 * **Part 7:** Load image data with torchvision, also data augmentation
 * **Part 8:** Use transfer learning to train a state-of-the-art image classifier for dogs and cats
+
+For the LSTM exercise session, take a look at these links:
+https://www.crosstab.io/articles/time-series-pytorch-lstm/
+
+https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html
+
+https://stackoverflow.com/questions/48302810/whats-the-difference-between-hidden-and-output-in-pytorch-lstm
