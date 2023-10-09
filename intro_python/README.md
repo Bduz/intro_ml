@@ -1,8 +1,8 @@
-# Deep Learning with PyTorch
+# Python resources
 
 This repo contains notebooks introducing deep learning using PyTorch. The notebooks are taken from udacity's public repo.
 
-* **Part 1:** Introduction to PyTorch and using tensors
+* [Introduction To Computer Science And Programming In Python at MIT](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * **Part 2:** Building fully-connected neural networks with PyTorch
 * **Part 3:** How to train a fully-connected network with backpropagation on MNIST
 * **Part 4:** Exercise - train a neural network on Fashion-MNIST
