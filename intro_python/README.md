@@ -22,5 +22,5 @@ Some resources for learning python
 * [Introduction to Statistical Learning with applications in Python at **statlearning.com**](https://intro-stat-learning.github.io/ISLP)
 
   This is actually not a python tutorial. It is the accompanying pyhton library for the [An Introduction to Statistical Learning](https://www.statlearning.com/) 
-  book. This book provides a broad and less technical treatment of key topics in statistical learning. This book is appropriate for anyone who wishes to use 
-  contemporary tools for data analysis. After each chapter, there is a lab coverign its topic. The notebooks are well-written and easy-to-use.
+  book. This book provides a broad and less technical treatment of key topics in statistical learning. It is appropriate for anyone who wishes to use 
+  contemporary tools for data analysis. After each chapter, there is a lab covering its topic. The notebooks are well-written and easy-to-use.
