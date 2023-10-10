@@ -16,11 +16,19 @@ Some resources for learning python
 
 * [Interactive Python tutorial at **learnpython.org**](https://www.learnpython.org)
 
-  Whether you are an experienced programmer or not, this website is intended for everyone who wishes to learn the Python programming language. After you complete the 
-  tutorials, you can get certified at LearnX and add your certification to your LinkedIn profile.
+  Whether you are an experienced programmer or not, this website is intended for everyone who wishes to learn the Python programming language. After you complete the tutorials, you can get certified at LearnX and add your certification to your LinkedIn profile.
 
 * [Introduction to Statistical Learning with applications in Python at **statlearning.com**](https://intro-stat-learning.github.io/ISLP)
 
   This is actually not a python tutorial. It is the accompanying pyhton library for the [An Introduction to Statistical Learning](https://www.statlearning.com/) 
   book. This book provides a broad and less technical treatment of key topics in statistical learning. It is appropriate for anyone who wishes to use 
   contemporary tools for data analysis. After each chapter, there is a lab covering its topic. The notebooks are well-written and easy-to-use.
+  
+* [Introduction to Programming with Python at **Harvard**](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
+
+  An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and "debug" it. Designed for students with 
+  and without prior programming experience who'd like to learn Python specifically. Learn about functions; variables and 
+  types; conditions and Boolean expressions; loops; and objects and methods. Plus exceptions, file I/O, and libraries. Hands-on opportunities for lots of practice. 
+  Exercises inspired by real-world programming problems. The full video of the entire course is on [youtube](https://www.youtube.com/watch?v=nLRL_NcnK-4).
+
+  
