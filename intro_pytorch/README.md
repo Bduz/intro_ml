@@ -11,8 +11,13 @@ This repo contains notebooks introducing deep learning using PyTorch. The notebo
 * **Part 7:** Load image data with torchvision, also data augmentation
 * **Part 8:** Use transfer learning to train a state-of-the-art image classifier for dogs and cats
 
+# Resources to learn PyTorch
 
-For the LSTM exercise session (Exercise 4), take a look at these links:
+* [Pytorch - Deep learning w/ Python](https://youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh&si=khzliopeLC_HFVrq)
+
+  Deep learning with Python and Pytorch tutorial series, starting from the basics.
+
+# For the LSTM exercise session (Exercise 4), take a look at these links:
 
 https://www.crosstab.io/articles/time-series-pytorch-lstm/
 
