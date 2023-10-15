@@ -13,7 +13,7 @@ This repo contains notebooks introducing deep learning using PyTorch. The notebo
 
 # Resources to learn PyTorch
 
-* [Pytorch - Deep learning w/ Python](https://youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh&si=khzliopeLC_HFVrq)
+* [Pytorch - Deep learning with Python](https://youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh&si=khzliopeLC_HFVrq)
 
   Deep learning with Python and Pytorch tutorial series, starting from the basics.
 
