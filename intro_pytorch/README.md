@@ -24,3 +24,5 @@ https://www.crosstab.io/articles/time-series-pytorch-lstm/
 https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html
 
 https://stackoverflow.com/questions/48302810/whats-the-difference-between-hidden-and-output-in-pytorch-lstm
+
+https://github.com/lkulowski/LSTM_encoder_decoder
